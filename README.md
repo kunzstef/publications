@@ -1,0 +1,2 @@
+# Publications
+- Stefan Kunz, **Penetration Testing Framework for OCSP-Responders**. Master thesis at Chair of IT Security, University of Passau, April 2018. [pdf](https://github.com/kunzstef/publications/blob/master/2018_Kunz_Penetration_Testing_Framework_for_OCSP-Responders.pdf) [bibtex](https://github.com/kunzstef/publications/blob/master/2018_Kunz_Penetration_Testing_Framework_for_OCSP-Responders.bib)
